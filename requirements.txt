@@ -5,3 +5,4 @@ keras
 seaborn
 pandas
 sklearn
+imageio
